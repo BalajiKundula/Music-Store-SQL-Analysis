@@ -13,16 +13,13 @@ I designed the relational database, established relationships between tables, im
 ---
 
 ---
-
 ## 🗄️ Database Schema
 
-The Music Store database is designed using a relational model consisting of customers, invoices, tracks, albums, artists, genres, playlists, and employees.
+The Music Store database follows a relational model consisting of customers, invoices, tracks, albums, artists, genres, playlists, and employees.
 
-<p align="center">
-  <img src="https://i.postimg.cc/j2sTjmpQ/ER-SS.png" alt="Music Store ER Diagram" width="900"/>
-</p>
+🔍 **Want to explore the complete database design?**
 
----
+[![View ER Diagram](https://img.shields.io/badge/Click%20Here-View%20ER%20Diagram-0A66C2?style=for-the-badge)](https://postimg.cc/1nY2CC5f)
 
 ## Tools Used
 
